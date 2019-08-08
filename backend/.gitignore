@@ -1,0 +1,3 @@
+# Ignora Dependências do BackEnd
+
+node_modules/
