@@ -39,7 +39,6 @@ export default function Main({ match }) {
 
         setUsers(users.filter(user => user._id !== id));
     }
-    
     return (
         <div className="main-container">
             <Link to="/">
