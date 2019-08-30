@@ -28,7 +28,8 @@
   To complete install yarn with chocolatey:  
   ```choco install yarn```  
 
-# Now that everything is installed globally, run the ```yarn``` command in the shell to install all project dependencies.  
+# Now that everything is installed globally  
+run ```yarn``` command in root of the projetct to install all project dependencies of the yarn.lock.  
 
 finally, just run the root of the backend project ```yarn dev```  
 and in the root of the frontend project run ```yarn start```  
