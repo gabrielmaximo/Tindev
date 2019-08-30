@@ -3,7 +3,7 @@
   
 ## Como Instalar o Tindev:
 
-### Linux Debian Base: tutorial feito por [tecadmin](https://tecadmin.net/install-latest-nodejs-npm-on-ubuntu/)  
+### Linux System Debian Base: tutorial feito por [tecadmin](https://tecadmin.net/install-latest-nodejs-npm-on-ubuntu/)  
 
   Install Curl to add nodejs in PPA:  
   ```sudo apt-get install curl```  
@@ -13,3 +13,10 @@
   
   Install node and npm with:  
   ```sudo apt-get install nodejs```  
+  
+  Install yarn with npm (-g for global installation):  
+  ```sudo npm install yarn -g``` 
+
+  ### Windows System: tutorial feito por []()  
+  
+    
