@@ -4,9 +4,11 @@
 ## Como Instalar o Tindev:  
 
 ### Linux Debian Base: tutorial feito por [tecadmin](https://tecadmin.net/install-latest-nodejs-npm-on-ubuntu/)  
-  Install Curl to add nodejs in PPA: ```sudo apt-get install curl```  
+  Install Curl to add nodejs in PPA:  
+  ```sudo apt-get install curl```  
   
-  To add PPA use the command (LTS release): ```curl -sL https://deb.nodesource.com/setup_10.x | sudo -E bash -```  
+  To add PPA use the command (LTS release):  
+  ```curl -sL https://deb.nodesource.com/setup_10.x | sudo -E bash -```  
   
-  Install node and npm with:
-  ```sudo apt-get install nodejs```
+  Install node and npm with:  
+  ```sudo apt-get install nodejs```  
