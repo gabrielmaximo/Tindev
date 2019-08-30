@@ -28,7 +28,7 @@
   To complete install yarn with chocolatey:  
   ```choco install yarn```  
 
-#### Now that everything is installed globally, run the "yarn" command in the shell to install all project dependencies.  
+## Now that everything is installed globally, run the "yarn" command in the shell to install all project dependencies.  
 
 finally, just run the root of the backend project ```yarn dev``` and in the root of the frontend project run ```yarn start```
 
@@ -36,6 +36,6 @@ finally, just run the root of the backend project ```yarn dev``` and in the root
 ![tindev](https://user-images.githubusercontent.com/1298871/62948028-06f81880-bdba-11e9-8046-c99bf5832e12.png)  
 
 #### faça login com seu github, para ter acesso a base de dados, (limite de 5 usurios cadastrados, por conta do mongoDB free)   
-clique no icone tindev acima para voltar ao login e cadastrar mais usurios para visualiza-los e poder curtir e dar match!
-
+clique no icone tindev acima para voltar ao login e cadastrar mais usurios para visualiza-los e poder curtir e dar match!  
+![tindev](https://scontent-dfw5-1.cdninstagram.com/vp/2c3908949188f2b6636df7f48b223aaa/5DD431C4/t51.2885-15/e35/66631691_413980265887872_5438129868168162027_n.jpg?_nc_ht=scontent-dfw5-1.cdninstagram.com)  
 ##### obs: o match no foi estilizado no frontend, fiz apenas um match visivel no console, enjoy it!
