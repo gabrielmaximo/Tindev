@@ -32,7 +32,7 @@
 
 finally, just run the root of the backend project ```yarn dev``` and in the root of the frontend project run ```yarn start```
 
-# Se nenhum problema ocorreu até aqui, terá o seguinte resultado no seu navegador:  
+## Se nenhum problema ocorreu até aqui, terá o seguinte resultado no seu navegador:  
 
 [tindev](https://user-images.githubusercontent.com/1298871/62948028-06f81880-bdba-11e9-8046-c99bf5832e12.png)  
 
