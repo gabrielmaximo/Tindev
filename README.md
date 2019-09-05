@@ -1,5 +1,5 @@
 # Project: TINDEV  
-#### 8º 8th edition of dev Web / Mobile workshop using the most modern tools on the market: (JavaScrip, NodeJs, ReactJs, React-Native, etc.) taught by [Diego Fernandes](https://github.com/diego3g), CEO in RocketSeat
+#### 8º 8th edition of dev Web / Mobile workshop using the most modern tools on the market: (JavaScrip, NodeJs, ReactJs, React-Native, etc.) taught by [Diego Fernandes](https://github.com/diego3g), CTO in RocketSeat
   
 ## *HOW TO INSTALL TINDEV*
 
