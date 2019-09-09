@@ -1,5 +1,5 @@
 # Project: TINDEV  
-#### 8th edition of dev Web / Mobile workshop using the most modern tools on the market: (JavaScrip, NodeJs, ReactJs, React-Native, etc.) taught by [Diego Fernandes](https://github.com/diego3g), CTO in RocketSeat
+#### 8th edition of dev Web / Mobile workshop using the most modern tools on the market: (JavaScrip, NodeJs, ReactJs, React-Native, etc.) taught by [Diego Fernandes](https://github.com/diego3g), CTO in [RocketSeat](www.rocketseat.com.br)
   
 ## *HOW TO INSTALL TINDEV*
 
@@ -8,7 +8,7 @@
   Install Curl to add nodejs in PPA:  
   ```sudo apt-get install curl```  
   
-  To add PPA use the command (LTS release):  
+  To add PPA use the command (only LTS node release):  
   ```curl -sL https://deb.nodesource.com/setup_10.x | sudo -E bash -```  
   
   Install node and npm with:  
