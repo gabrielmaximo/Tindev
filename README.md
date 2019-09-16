@@ -3,7 +3,7 @@
   
 ## *HOW TO INSTALL TINDEV*
 
-### Linux System Debian Base: tutorial by [tecadmin](https://tecadmin.net/install-latest-nodejs-npm-on-ubuntu/)  
+### Ubuntu Linux System: tutorial by [tecadmin](https://tecadmin.net/install-latest-nodejs-npm-on-ubuntu/)  
 
   Install Curl to add nodejs in PPA:  
   ```sudo apt-get install curl```  
