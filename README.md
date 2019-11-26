@@ -40,4 +40,3 @@ and in the root of the frontend project run ```yarn start```
 #### 
 login with your github to access the application
 Click on the tindev icon above to log back in and register more users to view them and be able to like and match! 
-![tindev](https://scontent-dfw5-1.cdninstagram.com/vp/2c3908949188f2b6636df7f48b223aaa/5DD431C4/t51.2885-15/e35/66631691_413980265887872_5438129868168162027_n.jpg?_nc_ht=scontent-dfw5-1.cdninstagram.com)  
