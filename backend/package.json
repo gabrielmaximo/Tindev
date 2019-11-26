@@ -10,8 +10,12 @@
     "axios": "^0.19.0",
     "cors": "^2.8.5",
     "express": "^4.17.1",
+<<<<<<< HEAD
     "mongoose": "^5.6.8",
     "socket.io": "^2.2.0"
+=======
+    "mongoose": "^5.7.5"
+>>>>>>> 2c29e84f954eed4bcc4bcc45c72f4045e3d27514
   },
   "devDependencies": {
     "nodemon": "^1.19.1"
