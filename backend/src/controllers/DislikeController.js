@@ -1,21 +1,24 @@
 const Dev = require('../models/Dev');
 
 module.exports = {
-    async store(req, res) {
-        const { devId } = req.params;
-        const { user } = req.headers;
+  async store(req, res) {
+    const { user } = req.headers;
+    const { devId } = req.params;
 
-        const loggedDev = await Dev.findById(user);
-        const targetDev = await Dev.findById(devId);
+    const loggedDev = await Dev.findById(user);
+    let targetDev = null
 
-        if(!targetDev) {
-            return res.status(400).json({ error: 'Dev not Exists!' });
-        }
-
-        loggedDev.dislikes.push(targetDev._id);
-
-        await loggedDev.save();
-
-        return res.json(loggedDev);
+    try {
+      targetDev = await Dev.findById(devId);
+    } catch (error) {
+      return res.status(400).json({ error: 'Dev not exists' });
     }
+    
+
+    loggedDev.dislikes.push(targetDev._id);
+
+    await loggedDev.save();
+
+    return res.json(loggedDev);
+  }
 };
