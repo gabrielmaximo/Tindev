@@ -38,7 +38,6 @@ and in the root of the frontend project run ```yarn start```
 ![tindev](https://user-images.githubusercontent.com/1298871/62948028-06f81880-bdba-11e9-8046-c99bf5832e12.png)  
 
 #### 
-login with your github to access the application (mongo db limited to 5 users)
+login with your github to access the application
 Click on the tindev icon above to log back in and register more users to view them and be able to like and match! 
 ![tindev](https://scontent-dfw5-1.cdninstagram.com/vp/2c3908949188f2b6636df7f48b223aaa/5DD431C4/t51.2885-15/e35/66631691_413980265887872_5438129868168162027_n.jpg?_nc_ht=scontent-dfw5-1.cdninstagram.com)  
-##### obs: the match was not stylized on the frontend, I just made a visible match on the console, enjoy it!
