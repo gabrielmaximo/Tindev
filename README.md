@@ -37,6 +37,7 @@ and in the root of the frontend project run ```yarn start```
 ## If all dependecies is installed, the result is:  
 ![tindev](https://user-images.githubusercontent.com/1298871/62948028-06f81880-bdba-11e9-8046-c99bf5832e12.png)  
 
-#### 
-login with your github to access the application
+#### login with your github to access the application
 Click on the tindev icon above to log back in and register more users to view them and be able to like and match! 
+
+###### créditos a Rocketseat :wave: [Faça parte dessa comunidade!](https://discordapp.com/invite/gCRAFhc)
